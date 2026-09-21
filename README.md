@@ -3,6 +3,12 @@ This repo provides on overview of software tools we created to facilitate the us
 
 
 ---
+# Software Tools
+
+- [ECG-Format-Converter](#ecg-format-converter)
+- [ECG-PDF-extractor](#ecg-pdf-extractor)
+
+---
 
 # ECG-Format-Converter
 Python app with GUI and CLI to read and write raw ECG data in different formats (DAT, CSV, DCM, HL7, XML, ASC), to convert between formats and to preprocess the ECG data.
