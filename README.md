@@ -1,2 +1,9 @@
 # ECG-for-ML
-Framework for using raw ECG data as input in ML projects
+This repo provides on overview of software tools we created to facilitate use of ECG data in the context of scientific projects, mainly ML based.
+
+
+
+Software Tools:
+
+
+
