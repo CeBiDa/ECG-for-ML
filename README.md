@@ -10,6 +10,7 @@ This repo provides on overview of software tools we created to facilitate the us
 
 ## Publications
 - [Identifying Heart Failure in ECG Data With Artificial Intelligence](#identifying-heart-failure-in-ecg-data-with-artificial-intelligence---a-meta-analysis)
+- [A conceptual framework for establishing trust in real world intelligent systems](#a-conceptual-framework-for-establishing-trust-in-real-world-intelligent-systems)
 - [Detecting myocardial scar using electrocardiogram data and deep neural networks](#detecting-myocardial-scar-using-electrocardiogram-data-and-deep-neural-networks)
     
 ---
@@ -48,10 +49,20 @@ Front Digit Health. 2021;2:584555.<br /><br />
 
 ---
 
+### A conceptual framework for establishing trust in real world intelligent systems
+Authors: M. Guckert, N. Gumpfer, J. Hannig, T. Keller, N. Urquhart<br />
+Cognitive Systems Research. 2021; 68:143-155.<br /><br />
+[![DOI](https://img.shields.io/badge/DOI-10%2E1016%2Fj%2Ecogsys%2E2021%2E04%2E001-blue?logo=pubmed&logoColor=fff)](https://10.1016/j.cogsys.2021.04.001) 
+<br />
+
+---
 ### Detecting myocardial scar using electrocardiogram data and deep neural networks
-Authors: N. Gumpfer, D. Grün, J. Hannig, T. Keller, M. Guckert<br />
+Authors: N. Gumpfer, D. Grün, J. Hannig, T. Keller, M. Guckert
 Biol Chem. 2020;402(8):911-923. <br /><br />
 [![DOI](https://img.shields.io/badge/DOI-10%2E1515%2Fhsz--2020--0169-blue?logo=pubmed&logoColor=fff)](https://doi.org/10.1515/hsz-2020-0169) 
 <br />
 
 ---
+
+
+
