@@ -1,5 +1,5 @@
 # ECG-for-ML
-This repo provides on overview of software tools we created to facilitate the use of (raw) ECG data in the context of scientific projects, mainly ML based.
+This repo provides on overview of software tools we created to facilitate the use of (raw) ECG data in the context of scientific projects, mainly ML based. It further lists publications of our group in this context.
 
 
 ---
@@ -40,18 +40,18 @@ Authors: J. Lang, N. Staubach, T. Keller
 
 # Publications
 
-### Identifying Heart Failure in ECG Data With Artificial Intelligence-A Meta-Analysis
+### Identifying Heart Failure in ECG Data With Artificial Intelligence - A Meta-Analysis
 Authors: D. Grün, F. Rudolph, N. Gumpfer, J. Hannig, L.K. Elsner, B. von Jeinsen, C.W. Hamm, A. Rieth, M. Guckert, T. Keller.<br />
-Front Digit Health. 2021;2:584555.<br />
-[![DOI](https://img.shields.io/badge/DOI-10%2E3389%2Ffdgth%2E2020%2E584555-blue?logo=zenodo&logoColor=fff)](https://doi.org/10.3389/fdgth.2020.584555) 
+Front Digit Health. 2021;2:584555.<br /><br />
+[![DOI](https://img.shields.io/badge/DOI-10%2E3389%2Ffdgth%2E2020%2E584555-blue?logo=pubmed&logoColor=fff)](https://doi.org/10.3389/fdgth.2020.584555) 
 <br />
 
 ---
 
 ### Detecting myocardial scar using electrocardiogram data and deep neural networks
 Authors: N. Gumpfer, D. Grün, J. Hannig, T. Keller, M. Guckert<br />
-Biol Chem. 2020;402(8):911-923. <br />
-[![DOI](https://img.shields.io/badge/DOI-10%2E1515%2Fhsz--2020--0169-blue?logo=zenodo&logoColor=fff)](https://doi.org/10.1515/hsz-2020-0169) 
+Biol Chem. 2020;402(8):911-923. <br /><br />
+[![DOI](https://img.shields.io/badge/DOI-10%2E1515%2Fhsz--2020--0169-blue?logo=pubmed&logoColor=fff)](https://doi.org/10.1515/hsz-2020-0169) 
 <br />
 
 ---
