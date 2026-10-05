@@ -39,7 +39,7 @@ Authors: J. Lang, N. Staubach, T. Keller
 # Publications
 
 ### Identifying Heart Failure in ECG Data With Artificial Intelligence-A Meta-Analysis
-Authors: Grün D, Rudolph F, Gumpfer N, Hannig J, Elsner LK, von Jeinsen B, Hamm CW, Rieth A, Guckert M, Keller T.<br />
+Authors: D. Grün, F. Rudolph, N. Gumpfer, J. Hannig, L.K. Elsner, B. von Jeinsen, C.W. Hamm, A. Rieth, M. Guckert, T. Keller.<br />
 Front Digit Health. 2021 Feb 25;2:584555.
 
 [![DOI](https://img.shields.io/badge/DOI-10%2E3389%2Ffdgth%2E2020%2E584555-blue?logo=zenodo&logoColor=fff)](https://doi.org/10.3389/fdgth.2020.584555) 
