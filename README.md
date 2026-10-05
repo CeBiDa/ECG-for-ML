@@ -9,7 +9,7 @@ This repo provides on overview of software tools we created to facilitate the us
 - [ECG-PDF-extractor](#ecg-pdf-extractor)
 
 ## Publications (without repo)
-- [Identifying Heart Failure in ECG Data With Artificial Intelligence](#identifying-heart-failure-in-ecg-data-with-artificial-intelligence-a-meta-analysis)
+- [Identifying Heart Failure in ECG Data With Artificial Intelligence](#identifying-heart-failure-in-ecg-data-with-artificial-intelligence---a-meta-analysis)
 - [Detecting myocardial scar using electrocardiogram data and deep neural networks](#detecting-myocardial-scar-using-electrocardiogram-data-and-deep-neural-networks)
     
 ---
