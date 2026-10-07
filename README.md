@@ -57,7 +57,7 @@ Cognitive Systems Research. 2021; 68:143-155.<br /><br />
 
 ---
 ### Detecting myocardial scar using electrocardiogram data and deep neural networks
-Authors: N. Gumpfer, D. Grün, J. Hannig, T. Keller, M. Guckert
+Authors: N. Gumpfer, D. Grün, J. Hannig, T. Keller, M. Guckert<br />
 Biol Chem. 2020;402(8):911-923. <br /><br />
 [![DOI](https://img.shields.io/badge/DOI-10%2E1515%2Fhsz--2020--0169-blue?logo=pubmed&logoColor=fff)](https://doi.org/10.1515/hsz-2020-0169) 
 <br />
