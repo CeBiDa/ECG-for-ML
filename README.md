@@ -5,6 +5,7 @@ This repo provides on overview of software tools we created to facilitate the us
 ---
 ## Software Tools
 
+- [ECG-XAI-Visualizer](#ecg-xai-visualizer)
 - [ECG-Format-Converter](#ecg-format-converter)
 - [ECG-PDF-extractor](#ecg-pdf-extractor)
 
@@ -16,6 +17,15 @@ This repo provides on overview of software tools we created to facilitate the us
 ---
 
 # Software Tools
+
+### ECG-XAI-Visualizer
+Python app with GUI and CLI to read raw 12-lead ECG data, apply a diagnostic CNN model and visualize the results via explainable AI (XAI).
+
+Authors: A. Krishna, J. Lang, S. Becker, T. Hartikainen, T. Arentz, M. Eichenlaub, A. Loewe, D. Westermann, T. Keller
+
+[![GitHub ECG-XAI-Visualizer](https://img.shields.io/badge/github-ECG--XAI--Visualizer-blue?logo=github)]([https://github.com/CeBiDa/ECG-Format-Converter](https://github.com/CeBiDa/ECG-XAI-Visualizer)) 
+
+---
 
 ### ECG-Format-Converter
 Python app with GUI and CLI to read and write raw ECG data in different formats (DAT, CSV, DCM, HL7, XML, ASC), to convert between formats and to preprocess the ECG data.
