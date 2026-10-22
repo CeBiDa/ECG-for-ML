@@ -3,6 +3,7 @@ This repo provides on overview of software tools we created to facilitate the us
 
 
 ---
+<br>
 ---
 
 ## Software Tools
@@ -17,6 +18,7 @@ This repo provides on overview of software tools we created to facilitate the us
 - [Detecting myocardial scar using electrocardiogram data and deep neural networks](#detecting-myocardial-scar-using-electrocardiogram-data-and-deep-neural-networks)
     
 ---
+<br>
 ---
 
 # Software Tools
@@ -51,6 +53,7 @@ Authors: J. Lang, N. Staubach, T. Keller
 
 
 ---
+<br>
 ---
 
 
