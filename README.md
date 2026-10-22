@@ -3,6 +3,8 @@ This repo provides on overview of software tools we created to facilitate the us
 
 
 ---
+---
+
 ## Software Tools
 
 - [ECG-XAI-Visualizer](#ecg-xai-visualizer)
@@ -14,6 +16,7 @@ This repo provides on overview of software tools we created to facilitate the us
 - [A conceptual framework for establishing trust in real world intelligent systems](#a-conceptual-framework-for-establishing-trust-in-real-world-intelligent-systems)
 - [Detecting myocardial scar using electrocardiogram data and deep neural networks](#detecting-myocardial-scar-using-electrocardiogram-data-and-deep-neural-networks)
     
+---
 ---
 
 # Software Tools
@@ -48,6 +51,8 @@ Authors: J. Lang, N. Staubach, T. Keller
 
 
 ---
+---
+
 
 # Publications
 
