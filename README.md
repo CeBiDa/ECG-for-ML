@@ -1,5 +1,5 @@
 # ECG-for-ML
-This repo provides on overview of software tools we created to facilitate the use of (raw) ECG data in the context of scientific projects, mainly ML based. It further lists publications of our group in this context.
+This repo provides an overview of software tools we created to facilitate the use of (raw) ECG data in the context of scientific projects, mainly ML based. It further lists publications of our group in this context.
 
 
 
